@@ -24,3 +24,12 @@
 ## 📅 진행 상황 
 
 ### Week 1:  3월 23일 월요일
+
+- [[Chpater1] 컴퓨터 구조 시작하기](<./Chapter1/>)
+- [[Chpater2] 데이터](<./Chapter2>)
+- [[Chpater3] 명령어](<./Chapter3/>)
+
+### Week 2:  3월 30일 월요일
+
+- [[Chpater4] CPU 작동원리](<./Chapter4/>)
+- [[Chpater5] CPU 성능 향상 기법](<./Chapter5>)
