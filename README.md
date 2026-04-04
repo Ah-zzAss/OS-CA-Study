@@ -33,3 +33,7 @@
 
 - [[Chpater4] CPU 작동원리](<./Chapter4/>)
 - [[Chpater5] CPU 성능 향상 기법](<./Chapter5>)
+
+### Week 3:  4월 6일 월요일
+
+- [[Chpater6] 메모리와 캐시 메모리](<./Chapter6/>)
