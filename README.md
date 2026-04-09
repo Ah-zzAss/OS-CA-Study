@@ -37,3 +37,8 @@
 ### Week 3:  4월 6일 월요일
 
 - [[Chpater6] 메모리와 캐시 메모리](<./Chapter6/>)
+
+### Week 4:  4월 13일 월요일
+
+- [[Chpater7] 보조기억장치](<./Chapter7/>)
+- [[Chapter8] 입출력장치](<./Chapter8/>)
