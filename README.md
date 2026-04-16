@@ -23,6 +23,9 @@
 
 ## 📅 진행 상황 
 
+> - **[week1 ~ week4] 컴퓨터 구조**
+> - **[week5 ~ week8] 운영체제**
+
 ### Week 1:  3월 23일 월요일
 
 - [[Chpater1] 컴퓨터 구조 시작하기](<./Chapter1/>)
@@ -42,3 +45,8 @@
 
 - [[Chpater7] 보조기억장치](<./Chapter7/>)
 - [[Chapter8] 입출력장치](<./Chapter8/>)
+
+### Week 5:  4월 20일 월요일
+
+- [[Chpater9] 운영체제 시작하기](<./Chapter9/>)
+- [[Chapter10] 프로세스와 스레드](<./Chapter10/>)
