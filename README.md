@@ -50,3 +50,9 @@
 
 - [[Chpater9] 운영체제 시작하기](<./Chapter9/>)
 - [[Chapter10] 프로세스와 스레드](<./Chapter10/>)
+
+### Week 6:  5월 4일 월요일
+
+- [[Chapter11] CPU 스케줄링](<./Chapter11/>)
+- [[Chapter12] 프로세스 동기화](<./Chapter12/>)
+- [[Chapter13] 교착 상태](<./Chapter13/>)
