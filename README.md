@@ -56,3 +56,8 @@
 - [[Chapter11] CPU 스케줄링](<./Chapter11/>)
 - [[Chapter12] 프로세스 동기화](<./Chapter12/>)
 - [[Chapter13] 교착 상태](<./Chapter13/>)
+
+### week 7: 5월 11일 월요일
+
+- [[Chapter14] 가상 메모리](<./Chapter14/>)
+- [[Chapter15] 파일 시스템](<./Chapter15/>)
